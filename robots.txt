@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-a5w799.keitaro-tech-rtb.online/sitemap.xml
